@@ -1,0 +1,14 @@
+{
+  "name": "simple-paper-trader",
+  "version": "1.0.0",
+  "description": "A simple simulated trading bot for learning",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "EDOHWAREZ",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^17.2.2"
+  }
+}
